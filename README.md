@@ -1,0 +1,1 @@
+# 1-real-project-.-Gender-detection-jinsni-aniqlovchi-1-Suniy-intellect-loyiham
