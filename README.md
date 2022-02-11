@@ -1,1 +1,3 @@
-# 1-real-project-.-Gender-detection-jinsni-aniqlovchi-1-Suniy-intellect-loyiham
+# 1-real-project-.-Gender-detection.(male,female)
+LANGUAGES USED : Python
+libraries used:Tensorflow,OpenCV
