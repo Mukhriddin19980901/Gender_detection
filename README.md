@@ -1,4 +1,4 @@
-# 1-real-project-.-Gender-detection project.(male,female)
+# 1-project-.-Gender-detection project.(male,female)
 LANGUAGES USED : Python 3.9v,
 frameworks : Tensorflow==2.5,,OpenCV
 libraries used:,Numpy,Keras
@@ -11,5 +11,6 @@ Description:
 - This model can be used for many purposes such as public security,statistics and so on.
    
    >>Here are some examples :
+   >> https://github.com/Mukhriddin19980901/My_portfolio/blob/main/man.png?raw=true
     
  
