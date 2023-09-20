@@ -1,8 +1,4 @@
-# 1-project-.-Gender-detection project.(male,female)
-LANGUAGES USED : Python 3.9v,
-frameworks : Tensorflow==2.5,,OpenCV
-libraries used:,Numpy,Keras
-Description:
+# Gender-detection(male,female)
 - For this project I have classified overall 56,000 images to identify a gender of people from different races.
 - Intially images were relabelled using one hot encoding
 - I have built a model using Convolution Neural Networks
