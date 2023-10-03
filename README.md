@@ -6,6 +6,7 @@
 
 - The aim of this project is to develop an algorithm that can accurately classify an individual's gender (male,female) based on facial features extracted from images.Creating real-time processing of facial images to provide instantaneous gender classification, making the system applicable to live video feeds or applications that require immediate responses.
 
+<img src="https://github.com/Mukhriddin19980901/Gender_detection/blob/main/pngfile/realt-face-detection.gif?raw=true" width="600" height="500" />
 
 
 - For this project I have classified overall 56,000 images to identify a gender of people from different races.The images sizes are different.
