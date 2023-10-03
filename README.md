@@ -1,9 +1,13 @@
 ##  **Gender detection**
 
-<img src="https://github.com/Mukhriddin19980901/Gender_detection/blob/main/pngfile/face_analysis_camera_selector-02.jpg?raw=true" width="500" height="400" />
+<img src="https://github.com/Mukhriddin19980901/Gender_detection/blob/main/pngfile/face_analysis_camera_selector-02.jpg?raw=true" width="600" height="300" />
 
 
 - For this project I have classified overall 56,000 images to identify a gender of people from different races.
+
+<img src="https://github.com/Mukhriddin19980901/Gender_detection/blob/main/pngfile/genders.png?raw=true" width="600" height="300" />
+
+
 - Intially images were relabelled using one hot encoding
 - I have built a model using Convolution Neural Networks
 - I have used cvlib library - a very effective library for face detection
