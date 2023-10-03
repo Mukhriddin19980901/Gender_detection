@@ -1,6 +1,6 @@
 ##  **Gender detection**
 
-<img src="https://github.com/Mukhriddin19980901/Gender_detection/blob/main/pngfile/face_analysis_camera_selector-02.jpg?raw=true" width="600" height="300" />
+<img src="https://github.com/Mukhriddin19980901/Gender_detection/blob/main/pngfile/face_analysis_camera_selector-02.jpg?raw=true" width="600" height="500" />
 
 
 - The aim of this project is to develop an algorithm that can accurately classify an individual's gender (male,female) based on facial features extracted from images.Creating real-time processing of facial images to provide instantaneous gender classification, making the system applicable to live video feeds or applications that require immediate responses.
