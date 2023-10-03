@@ -25,4 +25,4 @@ The code is divided into 4 main parts:
 
 <img src="https://github.com/Mukhriddin19980901/Gender_detection/blob/main/pngfile/genders.png?raw=true" width="500" height="300" />
 
-- The model is built through  convolutional neural networks using (**Tensorflow**)[https://en.wikipedia.org/wiki/TensorFlow]  
+- The model is built through  convolutional neural networks using (https://en.wikipedia.org/wiki/TensorFlow)[**Tensorflow**]  
